@@ -80,7 +80,27 @@ a{color:#0c73b7;text-decoration:none;}
 	font-family: 宋体;
 	line-height: 20px;
 }
-
+.cor-w{
+	line-height: 20px;
+	width:955px;
+	height:20px;
+	position: absolute;
+	z-index: 30;
+}
+.cor-w span{
+	color: #b082d9;
+	font-size: 15px;
+	font-family: 宋体;
+	line-height: 20px;
+	font-weight:bold;
+}
+.cor-w span a{
+	color: #ff9f5a;
+	font-size: 15px;
+	font-family: 宋体;
+	line-height: 20px;
+	font-weight:bold;
+}
 
 
 
