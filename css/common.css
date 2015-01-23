@@ -10,11 +10,11 @@ html,body{width:100%;height:100%;}
 .mt20{margin-top:20px;}
 .index_sec{font-size:12px;}
 .index_tit{width:100%;height:30px;border-bottom:2px solid #e9e9e9;}
-h1, h2, h3, h4, h5, h6 {font-size:14px;font-weight:400;}
+h1, h2, h3, h4, h5, h6 {font-size:16px;font-weight:400;}
 a{color:#0c73b7;text-decoration:none;}
 .clearfix:after{content:"";height:0;visibility:hidden;display:block;clear:both;}
 .clearfix{zoom:1;}
-.index_tit h3{position:absolute;width:725px;font-weight:700;text-align:center;}
+.index_tit h3{position:absolute;width:725px;font-weight:700;text-align:left;}
 .index_tit h3 a,.index_tit h3 a:hover{line-height:28px;line-height:30px;color:#555;}
 .index_tit .index_more{float:right;display:inline;margin-right:10px;line-height:30px;color:#444;}
 .index_tit .index_more:hover{color:#fe7710;}
