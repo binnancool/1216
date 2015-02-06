@@ -24,8 +24,8 @@ a{color:#0c73b7;text-decoration:none;}
 .ypym .index_box,.ztpm .index_box,.bjym .index_box{width:1000px;}
 .ypym .index_bor_hidden,.ztpm .index_bor_hidden,.bjym .index_bor_hidden{width:1000px;}
 .index_box{padding:10px 0 0 10px;overflow:hidden;}
-.index_box a{float:left;width:190px;padding:5px 10px;border-right:1px dashed #e8e8e8;border-bottom:1px dashed #e8e8e8;color:#444;}
-.index_box .bor_bot_none{border-bottom:none;}
+.index_box a{float:left;width:190px;border-right:1px dashed #e8e8e8;border-bottom:1px dashed #e8e8e8;color:#444;}
+.index_box .bor_bot_none{border-bottom:none;} 
 .index_box a:hover{background:#f0f9ff;}
 .index_box a strong{display:block;width:215px;height:22px;font-size:16px;color:#008edf;font-weight:700;cursor:pointer;white-space:nowrap;text-overflow:ellipsis;overflow:hidden;}
 .index_box a strong{display:inline-block;width:auto;max-width:215px;_width: expression((document.documentElement.clientWidth||document.body.clientWidth) > 215 ? "215px" :"auto");height:22px;_height:expression((document.documentElement.clientHeight||document.body.clientHeight) > 22?"24px":"");font-size:16px;color:#008edf;font-weight:700;cursor:pointer;overflow:hidden;}
