@@ -1,7 +1,7 @@
 body,h1,h2,h3,h4,h5,h6,hr,p,blockquote,dl,dt,dd,ul,ol,li,pre,form,fieldset,legend,button,input,textarea,th,td,a{padding:0;margin:0;}
 body,button,textarea{font:14px/1.6 Arial,"Microsoft YaHei";color:#333;}
 html,body{width:100%;height:100%;}
-.index_main{width:725px;}
+.index_main{width:1000px;}
 .container{width:1000px;margin:0 auto;overflow:hidden;position:relative;}
 .left{float:left;}
 .right{float:right;}
@@ -21,10 +21,10 @@ a{color:#0c73b7;text-decoration:none;}
 .ypym h3{border-bottom:3px solid #fd6d6d;}
 .ztpm h3{border-bottom:3px solid #b082d9;}
 .bjym h3{border-bottom:3px solid #ff9f5a;}
-.ypym .index_box,.ztpm .index_box,.bjym .index_box{width:705px;}
-.ypym .index_bor_hidden,.ztpm .index_bor_hidden,.bjym .index_bor_hidden{width:725px;}
+.ypym .index_box,.ztpm .index_box,.bjym .index_box{width:1000px;}
+.ypym .index_bor_hidden,.ztpm .index_bor_hidden,.bjym .index_bor_hidden{width:1000px;}
 .index_box{padding:10px 0 0 10px;overflow:hidden;}
-.index_box a{float:left;width:215px;padding:5px 10px;border-right:1px dashed #e8e8e8;border-bottom:1px dashed #e8e8e8;color:#444;}
+.index_box a{float:left;width:190px;padding:5px 10px;border-right:1px dashed #e8e8e8;border-bottom:1px dashed #e8e8e8;color:#444;}
 .index_box .bor_bot_none{border-bottom:none;}
 .index_box a:hover{background:#f0f9ff;}
 .index_box a strong{display:block;width:215px;height:22px;font-size:16px;color:#008edf;font-weight:700;cursor:pointer;white-space:nowrap;text-overflow:ellipsis;overflow:hidden;}
